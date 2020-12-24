@@ -8,6 +8,7 @@ public class SpringGitApplication {
 
     public static void main(String[] args) {
         System.out.println("999");
+        System.out.println("2333");
         SpringApplication.run(SpringGitApplication.class, args);
     }
 
