@@ -14,6 +14,7 @@ public class UserController {
     @RequestMapping("getUser")
     @ResponseBody
     public String getUser(){
+        System.out.println("调用获取user方法");
         return "user";
     }
 }
