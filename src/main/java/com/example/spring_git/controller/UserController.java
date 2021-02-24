@@ -19,7 +19,5 @@ public class UserController {
         return "user";
     }
 
-    public void test01(){
-
-    }
+   
 }
