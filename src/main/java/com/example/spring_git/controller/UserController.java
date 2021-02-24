@@ -15,6 +15,7 @@ public class UserController {
     @ResponseBody
     public String getUser(){
         System.out.println("调用获取user方法");
+        //我更改了
         return "user";
     }
 }
