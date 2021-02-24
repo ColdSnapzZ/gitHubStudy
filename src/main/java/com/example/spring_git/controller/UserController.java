@@ -18,4 +18,8 @@ public class UserController {
         //我更改了
         return "user";
     }
+
+    public void test01(){
+
+    }
 }
