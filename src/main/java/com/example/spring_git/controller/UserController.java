@@ -24,4 +24,8 @@ public class UserController {
         //world
     }
 
+    public void test02(){
+
+    }
+
 }
