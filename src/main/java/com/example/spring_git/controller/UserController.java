@@ -27,8 +27,7 @@ public class UserController {
     //test02
 
     public void test02(){
-        //world
-        //zzzz
+        //hello
     }
 
 }
